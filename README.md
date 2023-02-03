@@ -1,2 +1,2 @@
-# Computer-Vision
-Processing and analyzing digital images | Transformation of visual images 
+### Computer Vision
+Personal page in which computer vision projects such as ***Segmentation, Linear Filters, Basic Image Manipulation*** are presented 
